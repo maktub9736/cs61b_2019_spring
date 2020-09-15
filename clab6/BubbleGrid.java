@@ -23,7 +23,7 @@ public class BubbleGrid extends UnionFind {
         int[] output = new int[darts.length];
         for (int i = 0; i < darts.length; i++) {
             int[] dart = darts[i];
-            if (grid[dart[0]][dart[1]] != 1) {
+            if (!isBubble(dart[0], dart[1])) {
                 output[i] = 0;
             }
             else {
@@ -47,18 +47,16 @@ public class BubbleGrid extends UnionFind {
 
     /* Use DFS to union all the bubbles that are stuck. */
     private void UnionNeighbors(int x, int y) {
-        if (x >= 0 && x < height && y >= 0 && y < width && marked[x][y] == 0) {
-            if (isBubble(x, y)) {
-                marked[x][y] = 1;
-                if (x == 0) {  // Top bubbles, union(this, ceiling)
-                    union(gridToLst(x, y), 0);
-                }
-                int[][] dir = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
-                for (int[] d: dir) { // If neighbor is bubble, union(this, neighbor) then recursion
-                    if (isBubble(x + d[0], y + d[1])) {
-                        union(gridToLst(x, y), gridToLst(x + d[0], y + d[1]));
-                        UnionNeighbors(x + d[0], y + d[1]);
-                    }
+        if (isBubble(x, y) && marked[x][y] == 0) {
+            marked[x][y] = 1;
+            if (x == 0) {  // Top bubbles, union(this, ceiling)
+                union(gridToLst(x, y), 0);
+            }
+            int[][] dir = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
+            for (int[] d: dir) { // If neighbor is bubble, union(this, neighbor) then recursion
+                if (isBubble(x + d[0], y + d[1])) {
+                    union(gridToLst(x, y), gridToLst(x + d[0], y + d[1]));
+                    UnionNeighbors(x + d[0], y + d[1]);
                 }
             }
         }
