@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="176501d2-daf5-4bc2-b0cf-764177fc6aa9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../lab3/Flik/TestFlik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/IntList/IntList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/creatures/Clorus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/creatures/TestClorus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/BubbleGrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/TestUnionFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj0/Body.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj0/NBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj1a/ArrayDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj1a/IntNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj1a/LinkedListDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj1b/Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj1b/IntNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj1b/LinkedListDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj1b/OffByN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj1b/OffByOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj1b/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj1b/words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clab/clab6/BubbleGrid.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clab/clab6/BubbleGrid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clab/clab6/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clab/clab6/UnionFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/datastructur/synthesizer/ArrayRingBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/es/datastructur/synthesizer/ArrayRingBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/LeapYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/magic_word.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/DebugPractice/DebugExercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/DebugPractice/DebugExercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/Intlist/IntList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/Intlist/IntList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/Flik/Flik.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/Flik/Flik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/IntList/IntListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/IntList/IntListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/creatures/Plip.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/creatures/Plip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/creatures/TestPlip.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/creatures/TestPlip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/huglife/HugLife.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/huglife/HugLife.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/UnionFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library-sp19" beforeDir="false" afterPath="$PROJECT_DIR$/../library-sp19" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1a/LinkedListDequeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1a/LinkedListDequeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1b/PalindromeFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1b/PalindromeFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1b/TestOffByOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1b/TestOffByOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1b/TestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1b/TestPalindrome.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hXDpURhfjZvkh7ACSaiYDXlGjy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="es.datastructur.synthesizer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestArrayRingBuffer">
+    <configuration name="ArrayRingBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="es.datastructur.synthesizer.ArrayRingBuffer" />
+      <module name="hw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.datastructur.synthesizer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestArrayRingBuffer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.datastructur.synthesizer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.datastructur.synthesizer" />
+      <option name="MAIN_CLASS_NAME" value="es.datastructur.synthesizer.TestArrayRingBuffer" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestArrayRingBuffer" />
+        <item itemvalue="Application.ArrayRingBuffer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="176501d2-daf5-4bc2-b0cf-764177fc6aa9" name="Default Changelist" comment="" />
+      <created>1600148726042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600148726042</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="624" y="244" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1600219141270">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="624" y="244" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1600219141270" />
+    <state x="637" y="245" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600243011461">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="637" y="245" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1600243011461" />
+    <state x="685" y="390" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1600219143678">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="685" y="390" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1050@0.0.1920.1050" timestamp="1600219143677" />
+    <state width="1865" height="334" key="GridCell.Tab.0.bottom" timestamp="1600243098357">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="334" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1600243098357" />
+    <state width="1865" height="334" key="GridCell.Tab.0.center" timestamp="1600243098357">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="334" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1600243098357" />
+    <state width="1865" height="334" key="GridCell.Tab.0.left" timestamp="1600243098357">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="334" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1600243098357" />
+    <state width="1865" height="334" key="GridCell.Tab.0.right" timestamp="1600243098357">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="334" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1600243098357" />
+    <state width="1865" height="334" key="GridCell.Tab.1.bottom" timestamp="1600243098357">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="334" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1600243098357" />
+    <state width="1865" height="334" key="GridCell.Tab.1.center" timestamp="1600243098357">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="334" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1600243098357" />
+    <state width="1865" height="334" key="GridCell.Tab.1.left" timestamp="1600243098357">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="334" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1600243098357" />
+    <state width="1865" height="334" key="GridCell.Tab.1.right" timestamp="1600243098357">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="334" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1600243098357" />
+    <state width="1865" height="334" key="GridCell.Tab.2.bottom" timestamp="1600243098357">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="334" key="GridCell.Tab.2.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1600243098357" />
+    <state width="1865" height="334" key="GridCell.Tab.2.center" timestamp="1600243098357">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="334" key="GridCell.Tab.2.center/0.0.1920.1050@0.0.1920.1050" timestamp="1600243098357" />
+    <state width="1865" height="334" key="GridCell.Tab.2.left" timestamp="1600243098357">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="334" key="GridCell.Tab.2.left/0.0.1920.1050@0.0.1920.1050" timestamp="1600243098357" />
+    <state width="1865" height="334" key="GridCell.Tab.2.right" timestamp="1600243098357">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="334" key="GridCell.Tab.2.right/0.0.1920.1050@0.0.1920.1050" timestamp="1600243098357" />
+  </component>
+</project>
