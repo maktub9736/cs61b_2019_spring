@@ -78,10 +78,10 @@ public class FlightSolver {
             swap(leftChild, k);
             check(leftChild);
         } else if (rightChild < heap.size()) {
-            if (prior(leftChild, rightChild)) {
+            if (prior(leftChild, rightChild) && prior(leftChild, k)) {
                 swap(leftChild, k);
                 check(leftChild);
-            } else {
+            } else if (prior(rightChild, leftChild) && prior(rightChild, k)){
                 swap(rightChild, k);
                 check(rightChild);
             }
