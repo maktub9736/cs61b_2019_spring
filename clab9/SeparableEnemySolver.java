@@ -45,8 +45,11 @@ public class SeparableEnemySolver {
                 for (String n : g.neighbors(curr)) {
                     if (a.contains(n)) {
                         q = false;
-                    } else if (!b.contains(n)) {
-                        b.add(n);
+                        break;
+                    } else {
+                        if (!b.contains(n)) {
+                            b.add(n);
+                        }
                         markNeighbor(n);
                     }
                 }
@@ -54,8 +57,11 @@ public class SeparableEnemySolver {
                 for (String n : g.neighbors(curr)) {
                     if (b.contains(n)) {
                         q = false;
-                    } else if (!a.contains(n)) {
-                        a.add(n);
+                        break;
+                    } else {
+                        if (!a.contains(n)) {
+                            a.add(n);
+                        }
                         markNeighbor(n);
                     }
                 }
